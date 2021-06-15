@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/reactweb/static/css/main.7acffe33.chunk.css",
+    "main.js": "/reactweb/static/js/main.47087a33.chunk.js",
+    "main.js.map": "/reactweb/static/js/main.47087a33.chunk.js.map",
+    "runtime-main.js": "/reactweb/static/js/runtime-main.2960500b.js",
+    "runtime-main.js.map": "/reactweb/static/js/runtime-main.2960500b.js.map",
+    "static/css/2.b9b989d7.chunk.css": "/reactweb/static/css/2.b9b989d7.chunk.css",
+    "static/js/2.13db6c35.chunk.js": "/reactweb/static/js/2.13db6c35.chunk.js",
+    "static/js/2.13db6c35.chunk.js.map": "/reactweb/static/js/2.13db6c35.chunk.js.map",
+    "index.html": "/reactweb/index.html",
+    "static/css/2.b9b989d7.chunk.css.map": "/reactweb/static/css/2.b9b989d7.chunk.css.map",
+    "static/css/main.7acffe33.chunk.css.map": "/reactweb/static/css/main.7acffe33.chunk.css.map",
+    "static/js/2.13db6c35.chunk.js.LICENSE.txt": "/reactweb/static/js/2.13db6c35.chunk.js.LICENSE.txt",
+    "static/media/Ghoul.1f65a7a8.jpg": "/reactweb/static/media/Ghoul.1f65a7a8.jpg",
+    "static/media/Ludo.434a7e09.jpg": "/reactweb/static/media/Ludo.434a7e09.jpg",
+    "static/media/SG.713d331f.jpg": "/reactweb/static/media/SG.713d331f.jpg",
+    "static/media/net1.b39480d0.png": "/reactweb/static/media/net1.b39480d0.png",
+    "static/media/net2.35fb1bb2.png": "/reactweb/static/media/net2.35fb1bb2.png",
+    "static/media/th.c6f4d8f6.jpg": "/reactweb/static/media/th.c6f4d8f6.jpg",
+    "static/media/tw.fc204657.jpg": "/reactweb/static/media/tw.fc204657.jpg",
+    "static/media/vd.2f57096b.jpg": "/reactweb/static/media/vd.2f57096b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2960500b.js",
+    "static/css/2.b9b989d7.chunk.css",
+    "static/js/2.13db6c35.chunk.js",
+    "static/css/main.7acffe33.chunk.css",
+    "static/js/main.47087a33.chunk.js"
+  ]
+}
